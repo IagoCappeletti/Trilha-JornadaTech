@@ -1,5 +1,10 @@
 package application;
 
+import entities.AreaDoRetangulo;
+import entities.ConversorCelsius;
+import entities.LetrasSeparadas;
+import entities.SomarNumeros;
+
 import java.util.Locale;
 import java.util.Scanner;
 

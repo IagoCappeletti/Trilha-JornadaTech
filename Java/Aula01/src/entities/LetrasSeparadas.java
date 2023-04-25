@@ -1,4 +1,4 @@
-package application;
+package entities;
 
 public class LetrasSeparadas {
     public void separar(String palavra) {
