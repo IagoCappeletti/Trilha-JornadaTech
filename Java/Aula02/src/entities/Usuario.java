@@ -32,8 +32,8 @@ public class Usuario {
 
    @Override
    public String toString() {
-      return "Olá seu nome é " + nome + ", e tenho " + idade +
-              " anos, moro na cidade de " + cidade + ", situada no estado de " +
+      return "Olá meu nome é " + nome + ", e tenho " + idade +
+              " anos, moro na cidade de " + cidade + ", situada no estado " +
                estado + "." + "\n==============================================";
    }
 }
