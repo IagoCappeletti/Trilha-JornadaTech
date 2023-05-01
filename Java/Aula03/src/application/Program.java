@@ -76,9 +76,10 @@ public class Program {
                 {1.0, 2.5, 3.7},
                 {1.0, 2.5, 3.7}
         };
+        double[] cpf = new double[];
+        cpf[] = sc.nextInt();
 
         for (int i = 0; i < matriz.length; i++) { //Percorre a coluna
-            for (int j = 0; j < matriz.length; j++) { //Percorre a linha
                 System.out.print(matriz[i][j] + " ");
 
             }
