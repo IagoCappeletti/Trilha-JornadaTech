@@ -1,7 +1,6 @@
 import java.util.HashSet;
-import java.util.Set;
 
-public class Main {
+public class Set {
     public static void main(String[] args) {
 
         /*
@@ -10,7 +9,7 @@ public class Main {
         NÃO GARANTE UMA ORDEM ESPECÍFICA dos elementos, mas oferece uma boa performance de BUSCA e INSERÇÃO
          */
 
-        Set<String> set = new HashSet<>(); //um conjunto de strings
+        java.util.Set<String> set = new HashSet<>(); //um conjunto de strings
 
         //principais métodos
         //set elemento
